@@ -1,0 +1,23 @@
+# Carga csv y análisis
+pandas==1.3.2
+
+# Visualización histogramas
+matplotlib==3.4.3
+
+# Visualización plot
+pip==0.11.2
+
+# t-student
+scipy==1.7.3
+
+# Preprocesado codificar y escalar
+scikit-learn==0.24.2
+
+# Preprocesado balancear datos
+imbalanced-learn==0.8.1
+
+# Preprocesado selección de variables
+boruta==0.3
+
+# Modelling
+xgboost==1.5.0
