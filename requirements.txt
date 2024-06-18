@@ -1,22 +1,21 @@
-# Carga csv y análisis
+pip==0.11.2
+
+# csv upload
 pandas==1.3.2
 
-# Visualización histogramas
+# Histogram display
 matplotlib==3.4.3
-
-# Visualización plot
-pip==0.11.2
 
 # t-student
 scipy==1.7.3
 
-# Preprocesado codificar y escalar
+# Preprocessed encode and scale
 scikit-learn==0.24.2
 
-# Preprocesado balancear datos
+# Preprocessed balance data
 imbalanced-learn==0.8.1
 
-# Preprocesado selección de variables
+# Preprocessed variable selection
 boruta==0.3
 
 # Modelling
