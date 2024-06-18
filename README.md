@@ -15,6 +15,6 @@ Contenido del Repositorio
 
 4.- Una carpeta "src" que cotiene los script de python del pipeline CRIS-DM.
 
-5. Archivo jupyter notebook principal
+5.- Archivo jupyter notebook principal
 
-6. Archivo requerimientos
+6.- Archivo requerimientos
