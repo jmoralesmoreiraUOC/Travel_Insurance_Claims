@@ -23,3 +23,5 @@ Consideraciones:
 1.- Crear carpeta "envTFM" que cotiene el entorno virtual con los requerimientos de librerías.
 
 2.- La aplicación crea una carpeta "models" que cotiene los modelos entrenados.
+
+3.- La aplicación crea una carpeta "processed_data" que contiene data procesada de interes.
